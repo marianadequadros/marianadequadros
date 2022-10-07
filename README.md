@@ -1,14 +1,7 @@
- # seção 1
-
-## SUBSEÇÃO 1
--Editando o Perfil-
-
-## SUBSEÇÃO 2
-**Editando o Perfil**
-## Exemplo de Código
-
-...
-<html>
-<h1> Editando Perfio </h1>	
-</html>
-...
+ Eu sou, Mariana
+ 
+ Moro em Nova Laranjeiras
+ 
+ Gosde jogar 
+ 
+ Estou No primeiro ano do ensino médio.
